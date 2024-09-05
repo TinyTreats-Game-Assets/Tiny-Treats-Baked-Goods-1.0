@@ -1,6 +1,6 @@
 # Tiny Treats - Baked Goods set
 
-[![Baked Goods set](https://img.itch.zone/aW1nLzE3NTU0ODEzLnBuZw==/original/HbB1Ao.png](https://tinytreats.itch.io/baked-goods)
+[![Baked Goods set](https://img.itch.zone/aW1nLzE3NTU0ODEzLnBuZw==/original/HbB1Ao.png)](https://tinytreats.itch.io/baked-goods)
 
 This set is a collection of cute low-poly baked goods. It includes several variations of pies, cakes, whole, sliced & pieces of bread and other yummy sweet treats! These assets are great to create a little cooking game or to be used as food items in your lifesim or RPG. 
 
